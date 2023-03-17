@@ -15,7 +15,7 @@
         
     </head>
     <body>
-        <div class = "container text-end bg-dark">
+        <div class = "container text-end bg-primary">
             @if (Route::has('login'))
                 <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right">
                     @auth
@@ -134,6 +134,11 @@
                     </div>
                 </div>
             </div> -->
+        </div>
+
+        <div class = "container">
+            <h1>homepage</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit aut vitae quisquam quas quaerat nihil quidem facere quibusdam doloremque! Maiores eveniet, neque quis quam cum doloremque laudantium architecto beatae impedit voluptate quae asperiores blanditiis ducimus quidem aut mollitia dolore vero animi autem itaque illum. Repudiandae officia esse, placeat tempore magnam fugit sunt numquam ipsam reiciendis. Non nam cumque quae repellat mollitia ea odit fuga quidem nisi delectus dignissimos eligendi ducimus atque, numquam deserunt nesciunt temporibus fugiat porro veniam commodi at. Odio libero a architecto, aspernatur alias accusamus perspiciatis dolore, numquam assumenda eveniet fugiat nisi delectus velit nesciunt maiores obcaecati fuga!</p>
         </div>
 
 
