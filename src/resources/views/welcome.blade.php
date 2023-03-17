@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
         
     </head>
-    <body>
+    <body class = "bg-success">
         <div class = "container text-end bg-primary">
             @if (Route::has('login'))
                 <div class="sm:fixed sm:top-0 sm:right-0 p-6 text-right">
@@ -141,6 +141,10 @@
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit aut vitae quisquam quas quaerat nihil quidem facere quibusdam doloremque! Maiores eveniet, neque quis quam cum doloremque laudantium architecto beatae impedit voluptate quae asperiores blanditiis ducimus quidem aut mollitia dolore vero animi autem itaque illum. Repudiandae officia esse, placeat tempore magnam fugit sunt numquam ipsam reiciendis. Non nam cumque quae repellat mollitia ea odit fuga quidem nisi delectus dignissimos eligendi ducimus atque, numquam deserunt nesciunt temporibus fugiat porro veniam commodi at. Odio libero a architecto, aspernatur alias accusamus perspiciatis dolore, numquam assumenda eveniet fugiat nisi delectus velit nesciunt maiores obcaecati fuga!</p>
         </div>
 
+        <div class = "container">
+            <h2>Edit from fixbug team</h1>
+            <p>this area edit with fixbug team</p>
+        </div>
 
         <script src = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
